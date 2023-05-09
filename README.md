@@ -1,4 +1,5 @@
 # OptimalOutputLayer
+![Uploading image.png…]()
 Code and report for Machine Intelligence Day 2022( http://csis.pace.edu/~scha/MID2022/index.html?)
 
 Abstract: http://csis.pace.edu/~scha/MID2022/Abstract/a08.pdf
