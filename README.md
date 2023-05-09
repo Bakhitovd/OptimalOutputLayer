@@ -1,5 +1,6 @@
 # OptimalOutputLayer
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/55272111/236977633-2cbd3ae0-f098-475e-acab-f9985ff7e7da.png)
+
 Code and report for Machine Intelligence Day 2022( http://csis.pace.edu/~scha/MID2022/index.html?)
 
 Abstract: http://csis.pace.edu/~scha/MID2022/Abstract/a08.pdf
